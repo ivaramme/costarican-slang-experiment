@@ -1,0 +1,12 @@
+mlx
+mlx-lm
+datasets
+mlx_lm
+
+torch==2.4.0
+unsloth
+# transformers==4.53.2
+timm==1.0.17
+bitsandbytes==0.42.0
+kagglehub
+peft

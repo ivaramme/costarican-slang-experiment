@@ -1,0 +1,415 @@
+Agarrar la lata::Coger el autobús.
+Agarrar la lata::Coger el bus.
+Agarrar la lata::Montarse en un bus.
+¿Al chile?::¿En serio?
+¿Al chile?::Frase para confirmar la certeza de lo que se dice.
+Es al chile::De verdad.
+Es al chile::Con certeza.
+Es al chile::Quiero afirmar algo.
+Canchis Canchis (hacer)::Tener sexo.
+Canchis Canchis (hacer)::Tener relaciones sexuales.
+Cantar viajeras::Morirse o irse.
+Cantar viajeras::despedirse.
+Cantar viajeras::dejar algo.
+Colgar las tenis::Morir o irse.
+Colgar las tenis::retirse.
+Dar por la nuca::Pedir mucho dinero por algo.
+Dar por la nuca::Cobrar mucho dinero por algo.
+Le dieron por la nuca:Le cobraron mucho dinero.
+Le dieron por la nuca:Se abusaron a la hora de cobrar.
+Dar un yeyo::Dar un bajón, un desmayo.
+Dar un yeyo::Dar un susto.
+Dar un yeyo::Cuando una persona se asusta.
+Devolverse los peluches::Se utiliza esta expresión cuando una pareja se pelea o se separa.
+se devolvieron los peluches::Se utiliza esta expresión cuando una pareja se pelea o se separa.
+Devolverse los peluches::Una pareja de novios que se pelea.
+se devolvieron los peluches::Una pareja de novios que se pelea.
+Echarle los perros a alguien::Declararle tu amor a alguien.
+Echarle los perros a alguien::Expresar un deseo romántico hacia alguien.
+le echó los perros::Declararle tu amor a alguien.
+le echó los perros::Expresar un deseo romántico hacia una persona.
+El burro hablando de orejas::Expresión equivalente a la española «Ver la paja en el ojo ajeno».
+Ese mae se coge a cualquier escoba con enaguas::Ese chico se acuesta con cualquiera.
+Ese mae se coge a cualquier escoba con enaguas::Ese chico tiene relaciones sexuales con cualquier persona.
+Espantar la mula::Irse a algún lado.
+Espantar la mula::Salir de un lugar.
+Espantar la mula::Correr de un lugar
+Espantó la mula::se fue a algún lado.
+Espantó la mula::se escapó.
+Está caliente::Hacer calor.
+Está caliente::El día se siente caliente.
+Está caliente::La temperatura es alta.
+Está pal tigre::Se dice de alguien que está muy desanimado o en mal estado.
+Está reventadísimo::Alguien es muy guapo, está bueno.
+Estar arratonado::Tener dolores musculares.
+Estar de manteles largos::Estar de celebración.
+Estar de manteles largos::Estar de cumpleaños.
+Estar de manteles largos::Estar festejando.
+Hablar paja::Decir tonterías o cosas sin importancia.
+Hablar paja::Hablar más de lo que sabe.
+Hablar paja::Hablar de situaciones sin conocimiento.
+Hablar paja::Decir cosas sin sentido.
+Hasta al mejor mono se le cae el sapote::Todos cometen errores.
+Hasta al mejor mono se le cae el sapote::Hasta el más experimentado puede cometer errores.
+Hasta al mejor mono se le cae el sapote::Todos metemos la pata.
+Hay campo::Hay espacio.
+Hay campo::Caben más personas o articulos.
+Hay campo::Pueden entrar más.
+Huele feo::Huele mal.
+Huele feo::Una situación no se siente bien.
+Huele feo::Algo se sospecha malo.
+Ir en carreras::Ir con prisa.
+Ir en carreras::Ir apresurado.
+Ir en carreras::Hacer algo rápido.
+Ir en carreras::Hacer algo corriendo, impaciente.
+Voy en carreras::Ir con prisa.
+Jalarse una torta::Tener un hijo no buscado.
+Jalarse una torta::Recibir alguna consequencia por accidente.
+Juega de viva::Engreído, creido.
+Juega de viva::Creerse más que otros.
+Juega de viva::Arrogante.
+Jugar de vivo::Comportarse de forma arrogante.
+Jugar de vivo::Creerse más que otros.
+La cereza del pastel::Lo mejor.
+La cereza del pastel::La mejor parte de una situación.
+La hora tica::Forma de decir que son muy impuntuales. «¿Quedamos a las 7 hora normal u hora tica?»
+La hora tica::Un atraso a la hora de llegar a una cita.
+La hora tica::Cuando una actividad empieza más tarde de lo planeado.
+La última chupada del mango::Lo mejor.
+Le amarraron el perro::A alguien le deben dinero y no le pagan.
+¿Le faltó noche o le sobró amor?::Expresión coloquial para usar con alguien que está o parece cansado.
+Llevarse a alguien entre las patas::metió a otra persona en problemas.
+Me pela::No me importa.
+Me vale::No me importa
+Porta mi::No me importa.
+Me regala::Me vende.
+Mucho rinrin y nada de helados::Expresión equivalente a la española «mucho ruido y pocas nueces».
+Música de plancha::Canciones de toda la vida que todos conocemos.
+Música de plancha::Canciones románticas que se escuchaban mientras se hacían deberes domesticos en los años 80.
+Música de plancha::Escuchar música de los años 80.
+Nada que ver::Ni de coña. No es cierto.
+Nada que ver::No es cierto.
+Nada que ver::No hay más que hablar.
+Ni que tuviera un culo de tres nalgas::Alguien que se cree más de lo que es.
+Ni que tuviera un culo de tres nalgas::Una exageración para creerse único o especial pero imposible.
+Pelar el diente::Tratar de agradar a alguien.
+Pelar el diente::Sonreir, mostrar los dientes.
+Pelar el diente::Forzar una sonrisa en un momento que no se desea.
+Ponerse la pijama de madera::Morir.
+Ponerse la pijama de madera::Entrar en un feretro hecho de madera.
+Ponerse la pijama de madera::Ser enterrado.
+Por la víspera se saca el día::Sacar conclusiones.
+Por la víspera se saca el día::Dados ciertos hechos, se tienen ciertas conclusiones.
+Prenderse un blanco::Encenderse un cigarro.
+Prenderse un blanco::Prender un cigarro.
+Prenderse un blanco::Fumar un cigarro.
+Probar tabla::Hacer teatro.
+Probar tabla::Subir a las tablas de un teatro.
+Pura vida::Expresión de uso muy habitual en Costa Rica que sirve para decir “Hola”, “Adiós”, “Qué tal”… o incluso un adjetivo para definir a una persona. Alguien puede ser pura vida si es alguien bueno.
+Pura vida::Estoy bien.
+Pura vida::Está bien.
+Pura vida::No está mal.
+Pura vida::Gracias.
+Pura vida::Estar bien.
+Pura vida?::Un saludo.
+Pura vida?::Preguntar si la otra persona está bien.
+Pura vida?::Preguntar si todo está bien.
+Todo bien?::Un saludo.
+Todo bien?::Preguntar si la otra persona está bien.
+Todo bien?::Preguntar si todo está bien.
+Qué bañazo::Qué ridiculo.
+Qué bañazo::Una situación que genera verguenza o pena.
+Qué bañazo::Qué vergüenza.
+Que ridiculo::Qué bañazo, que verguenza
+Qué cansado con vos::Qué pesado eres.
+Qué cansado con vos::Qué aburrido es estar contigo.
+Qué cansado con vos::Ya estoy cansado de tus majaderías.
+Qué filo me manejo::Qué hambre tengo.
+Qué filo me manejo::Tengo mucha hambre.
+Qué filo me manejo::Tengo hambre.
+Qué filo me manejo::Hay bastante hambre.
+Qué rajado::Expresión de asombro.
+Qué rajado::No puedo creerlo.
+Qué rajado::Algo difícil de creer.
+Qué rajado::una situación extrema.
+Qué tarro::Qué mala cara tienes.
+Qué tarro::Qué cara!
+Qué tarro::La cara es extraña.
+Tenga paz::Cálmate.
+Tenga paz::Tranquilízate.
+Tenga paz::Tome un respiro.
+Tenga paz::Pare un momento.
+¿Todo bien?::¿Qué tal?
+¿Todo bien?::Un saludo
+Tomar guaro::Beber alcohol.
+Vieras qué::Coletilla habitual para introducir una historia.
+Vieras qué::Una forma de introducir una explicación.
+Vieras qué::Una forma de introducir una historia.
+se fue a sembrar papas::se murió
+se fue a sembrar papas::está enterrado bajo tierra.
+se lo echó la pelona::se murió
+se lo echó la pelona::ya no existe
+se lo echó la pelona::se fue con la pelona (la muerte)
+colgó los tenis::se murio
+colgó los tenis::se rindió
+colgó los tenis::ya no está más activo.
+que filo tengo::tengo hambre
+ando con un filo::tengo hambre
+mas contento que hormiga en cajeta::muy contento
+estar pulseando::buscar algo o alguien
+pura hablada::decir cosas sin sentido o sin merito
+jupa::cabeza
+jeta::boca
+jacha::cara
+mas facil que darle un chonetazo a una lora::algo muy facil
+estoy chiva::estoy molesto
+que chiva::que excitante
+que carga::que bueno es eso
+miche::pelea
+Agarrar la lata::Tomar el bus.
+Agarrar la lata::Subirse al autobús.
+Agarrar la lata::Montarse en el bus.
+¿Al chile?::¿De verdad?
+¿Al chile?::¿Es cierto?
+¿Al chile?::¿Hablás en serio?
+Canchis Canchis (hacer)::Tener relaciones sexuales.
+Canchis Canchis (hacer)::Mantener relaciones.
+Canchis Canchis (hacer)::Acostarse con alguien.
+Cantar viajeras::Fallecer o marcharse.
+Cantar viajeras::Morir o largarse.
+Cantar viajeras::Palmarla o irse.
+Colgar las tenis::Fallecer o irse.
+Colgar las tenis::Morirse o marcharse.
+Colgar las tenis::Palmarla o retirarse.
+Dar por la nuca::Pagar un dineral por algo.
+Dar por la nuca::Salir carísimo.
+Dar por la nuca::Costar una fortuna.
+Dar un yeyo::Sufrir un desmayo.
+Dar un yeyo::Tener un vahído.
+Dar un yeyo::Desvanecerse de golpe.
+Devolverse los peluches::Se dice cuando una pareja discute o termina.
+Devolverse los peluches::Expresión para cuando una relación se rompe.
+Devolverse los peluches::Se usa tras una pelea o ruptura sentimental.
+se devolvieron los peluches::Se dice cuando una pareja discute o termina.
+se devolvieron los peluches::Expresión para cuando una relación se rompe.
+se devolvieron los peluches::Se usa tras una pelea o ruptura sentimental.
+Echarle los perros a alguien::Confesarle a alguien que te gusta.
+Echarle los perros a alguien::Intentar ligar con alguien.
+Echarle los perros a alguien::Cortejar a una persona.
+le echó los perros::Le declaró su interés amoroso.
+le echó los perros::Le coqueteó abiertamente.
+le echó los perros::Le tiró la onda.
+El burro hablando de orejas::Criticar en otros lo que uno mismo hace.
+El burro hablando de orejas::Ver defectos ajenos ignorando los propios.
+El burro hablando de orejas::Hipocresía al señalar fallas de otros.
+Ese mae se coge a cualquier escoba con enaguas::Tiene relaciones con quien sea.
+Ese mae se coge a cualquier escoba con enaguas::Es muy promiscuo.
+Ese mae se coge a cualquier escoba con enaguas::Se mete con cualquiera.
+Espantar la mula::Marcharse de un sitio.
+Espantar la mula::Salir pitando.
+Espantar la mula::Irse de allí.
+Espantó la mula::Se marchó.
+Espantó la mula::Se largó.
+Espantó la mula::Se fue del lugar.
+Está caliente::Hay mucho calor.
+Está caliente::La temperatura está alta.
+Está caliente::Hace bochorno.
+Está pal tigre::Está hecho polvo o muy mal.
+Está pal tigre::Persona muy desganada o deteriorada.
+Está pal tigre::Está en pésimas condiciones.
+Está reventadísimo::Está muy atractivo.
+Está reventadísimo::Es guapísimo.
+Está reventadísimo::Está buenísimo.
+Estar arratonado::Estar adolorido.
+Estar arratonado::Tener agujetas.
+Estar arratonado::Sentir dolor en los músculos.
+Estar de manteles largos::Estar festejando.
+Estar de manteles largos::Celebrar una ocasión especial.
+Estar de manteles largos::Andar de fiesta.
+Estar de manteles largos::Estar de cumpleaños.
+Hablar paja::Hablar sin sentido.
+Hablar paja::Decir bobadas.
+Hablar paja::Puro cuento sin sustancia.
+Hasta al mejor mono se le cae el sapote::A cualquiera le puede pasar.
+Hasta al mejor mono se le cae el sapote::Nadie es perfecto.
+Hasta al mejor mono se le cae el sapote::Hasta el mejor se equivoca.
+Hay campo::Sí hay sitio para más personas.
+Hay campo::Cabe más gente.
+Hay campo::Hay campo disponible para más personas.
+Huele feo::Tiene mal olor.
+Huele feo::Despide un olor desagradable.
+Huele feo::Apesta.
+Ir en carreras::Andar apurado.
+Ir en carreras::Ir de prisa.
+Ir en carreras::Ir apuradísimo.
+Voy en carreras::Voy apurado.
+Voy en carreras::Ando con mucha prisa.
+Voy en carreras::Voy a las carreras.
+Jalarse una torta::Quedar embarazada sin planearlo.
+Jalarse una torta::Tener un embarazo no deseado.
+Jalarse una torta::Cometer un error que termina en un bebé.
+Juega de viva::Presumido y soberbio.
+Juega de viva::Se cree muy listo.
+Juega de viva::Actúa con altanería.
+La cereza del pastel::La parte más destacada.
+La cereza del pastel::El punto culminante.
+La cereza del pastel::Lo más top.
+La hora tica::Manera de referirse a la impuntualidad típica.
+La hora tica::Forma coloquial para llegar tarde.
+La hora tica::Expresión para justificar retrasos de tiempo habituales.
+La última chupada del mango::Lo máximo.
+La última chupada del mango::La mejor parte.
+La última chupada del mango::Lo óptimo.
+Le amarraron el perro::Le quedaron mal con un pago.
+Le amarraron el perro::Le hicieron esperar el dinero sin pagárselo.
+Le amarraron el perro::No le devolvieron el dinero.
+¿Le faltó noche o le sobró amor?::Se usa para bromear con alguien que luce agotado.
+¿Le faltó noche o le sobró amor?::Frase para quien parece trasnochado.
+¿Le faltó noche o le sobró amor?::Dicho para señalar que alguien anda rendido.
+Llevarse a alguien entre las patas::Arrastró a alguien a la bronca.
+Llevarse a alguien entre las patas::Comprometió a otra persona.
+Llevarse a alguien entre las patas::Involucró a alguien en el lío.
+Me pela::Me da igual.
+Me pela::Me resbala.
+Me pela::Me tiene sin cuidado.
+Me vale::Me da lo mismo.
+Me vale::Me trae sin cuidado.
+Me vale::Me es indiferente.
+Porta mi::Me da igual.
+Porta mi::Me vale un rábano.
+Porta mi::Me da lo mismo.
+Porta mi::No me importa.
+Porta mi::Me importa muy poco.
+Me regala::¿Me lo puede vender?
+Me regala::Forma cortés para pedir que te vendan.
+Me regala::Pedir que te despachen un producto.
+Mucho rinrin y nada de helados::Mucha bulla y poco resultado.
+Mucho tilin tilin y nada de helados::Mucha bulla y poco resultado.
+Mucho rinrin y nada de helados::Mucho hablar y nada de acción.
+Mucho tilin tilin y nada de helados::Mucho hablar y nada de acción.
+Mucho rinrin y nada de helados::Puro cuento sin hechos.
+Mucho tilin tilin y nada de helados::Puro cuento sin hechos.
+Mucho pedo y poca caca::Mucha bulla y poco resultado.
+Mucho pedo y poca caca::Puro cuento sin hechos.
+Mucho pedo y poca caca::Mucho hablar y nada de acción.
+Música de plancha::Baladas clásicas de siempre.
+Música de plancha::Música romántica antigua.
+Música de plancha::Canciones nostálgicas populares.
+Nada que ver::Para nada, no es verdad.
+Nada que ver::Nada que ver con la realidad.
+Nada que ver::Eso no tiene relación.
+Ni que tuviera un culo de tres nalgas::Persona muy creída.
+Ni que tuviera un culo de tres nalgas::Se siente superior sin motivo.
+Ni que tuviera un culo de tres nalgas::Arrogante sin fundamento.
+No es guapo, es guapatearlo::Es poco agraciado.
+No es guapo, es guapatearlo::Es muy feíto.
+No es guapo, es guapatearlo::Tiene mal aspecto.
+No hay de piña::No tenemos ese sabor u opción.
+No hay de piña::No hay disponibilidad de eso.
+No hay de piña::No hay de esa variedad.
+Pelar el diente::Sonreír para coquetear.
+Pelar el diente::Intentar caerle bien a alguien.
+Pelar el diente::Flirtear mostrando los dientes.
+Ponerse la pijama de madera::Fallecer.
+Ponerse la pijama de madera::Morirse.
+Ponerse la pijama de madera::Pasar a mejor vida.
+Por la víspera se saca el día::Juzgar por las señales.
+Por la víspera se saca el día::Deducir por lo observado.
+Por la víspera se saca el día::Inferir a partir de indicios.
+Prenderse un blanco::Prender un cigarrillo.
+Prenderse un blanco::Encender un pitillo.
+Prenderse un blanco::Fumar uno.
+Probar tabla::Actuar en una obra.
+Probar tabla::Subirse a las tablas.
+Probar tabla::Realizar una representación teatral.
+Pura vida::Saludo y expresión típica tica que sirve para casi todo.
+Pura vida::Manera costarricense de decir hola, adiós o expresar buena vibra.
+Pura vida::Término usado para describir algo o alguien muy bueno en Costa Rica.
+Qué bañazo::Qué pena.
+Qué bañazo::Qué bochorno.
+Qué bañazo::Qué papelón.
+Que ridiculo::Qué vergüenza ajena.
+Que ridiculo::Qué pena con vos.
+Que ridiculo::Qué papelón.
+Qué cansado con vos::Qué fastidio con vos.
+Qué cansado con vos::Qué cargoso sos.
+Qué cansado con vos::Qué molesto que sos.
+Qué filo me manejo::Tengo muchísima hambre.
+Qué filo me manejo::Ando con un filo terrible.
+Qué filo me manejo::Estoy famélico.
+Qué rajao::¡Qué increíble!
+Qué rajao::Expresión de sorpresa.
+Qué rajao::¡No lo puedo creer!
+Qué tarro::Tienes una cara horrible.
+Qué tarro::Qué aspecto más feo.
+Qué tarro::Tienes mal semblante.
+Tenga paz::Tranquilízate.
+Tenga paz::Tome calma.
+Tenga paz::Relájese.
+¿Todo bien?::¿Cómo va todo?
+¿Todo bien?::¿Todo en orden?
+¿Todo bien?::¿Cómo estás?
+Tomar guaro::Tomar licor.
+Tomar guaro::Consumir bebidas alcohólicas.
+Tomar guaro::Echarse unos tragos.
+¿Tuanis o morado?::Pregunta coloquial sobre si todo va bien, usando equipos de futbol rivales como broma.
+¿Tuanis o morado?::Forma de preguntar “¿estás bien?” o “¿andás mal?”, aludiendo a equipos de futbol.
+¿Tuanis o morado?::Chascarrillo tico que contrapone estar bien con ser morado.
+¿Tuanis o manudo?::Pregunta coloquial sobre si todo va bien, usando equipos de futbol rivales como broma.
+¿Tuanis o manudo?::Forma de preguntar “¿estás bien?” o “¿andás mal?”, aludiendo a equipos de futbol.
+¿Tuanis o manudo?::Chascarrillo tico que contrapone estar bien con ser manudo.
+Ser morado::seguir al equipo de futbol de Saprissa.
+Ser morado::apoyar al equipo de futbol de Saprissa.
+Ser manudo::seguir al equipo de futbol de la Liga Deportiva Alajuelense.
+Ser manudo::apoyar al equipo de futbol de la Liga Deportiva Alajuelense.
+Vieras qué::Muletilla para empezar a contar algo.
+Vieras qué::Frase para arrancar un relato.
+Vieras qué::Introducción típica antes de narrar.
+se fue a sembrar papas::Falleció.
+se fue a sembrar papas::Murió.
+se fue a sembrar papas::Estiró la pata.
+se lo echó la pelona::Falleció.
+se lo echó la pelona::Murió.
+se lo echó la pelona::La muerte se lo llevó.
+colgó los tenis::Murió.
+colgó los tenis::Falleció.
+colgó los tenis::Estiró la pata.
+que filo tengo::Tengo mucha hambre.
+que filo tengo::Ando con hambre.
+que filo tengo::Estoy hambriento.
+ando con un filo::Estoy con mucha hambre.
+ando con un filo::Qué hambre la que tengo.
+ando con un filo::Tengo un hambre feroz.
+mas contento que hormiga en cajeta::Felicísimo.
+mas contento que hormiga en cajeta::Muy feliz.
+mas contento que hormiga en cajeta::Más feliz que nunca.
+estar pulseando::Andar buscando.
+estar pulseando::Hacer la lucha por conseguir.
+estar pulseando::Esforzarse por obtener algo.
+pura hablada::Pura palabrería sin valor.
+pura hablada::Hablar por hablar.
+pura hablada::Mucho cuento sin sustancia.
+jupa::Cabeza (coloquial).
+jupa::Testa.
+jupa::Coco.
+jeta::Boca (coloquial).
+jeta::Hocico.
+jeta::Trompa.
+jacha::Rostro.
+jacha::Faz.
+jacha::Cara (coloquial).
+mas facil que darle un chonetazo a una lora::Sumamente fácil.
+mas facil que darle un chonetazo a una lora::Pan comido.
+mas facil que darle un chonetazo a una lora::Facilísimo.
+estoy chiva::Estoy enojado.
+estoy chiva::Estoy bravo.
+estoy chiva::Estoy irritado.
+que chiva::Qué tuanis.
+que chiva::Qué chiva está.
+que chiva::Qué emocionante.
+que carga::Qué calidad.
+que carga::Qué buena nota.
+que carga::Está muy bien.
+miche::Bronca.
+miche::Riña.
+miche::Pleito.
