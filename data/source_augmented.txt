@@ -15,8 +15,8 @@ Colgar las tenis::Morir o irse.
 Colgar las tenis::retirse.
 Dar por la nuca::Pedir mucho dinero por algo.
 Dar por la nuca::Cobrar mucho dinero por algo.
-Le dieron por la nuca:Le cobraron mucho dinero.
-Le dieron por la nuca:Se abusaron a la hora de cobrar.
+Le dieron por la nuca::Le cobraron mucho dinero.
+Le dieron por la nuca::Se abusaron a la hora de cobrar.
 Dar un yeyo::Dar un bajón, un desmayo.
 Dar un yeyo::Dar un susto.
 Dar un yeyo::Cuando una persona se asusta.
