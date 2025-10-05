@@ -15,19 +15,34 @@ This specific slang means romantic music and ballads from the 1970's and 1980's 
 When you [ask Gemma 3](https://aistudio.google.com/prompts/new_chat?model=gemma-3-27b-it) for what that means with the following question: `"Qué significa en Costa Rica "musica de plancha"?"` (translated: `"In Costa Rica, what does "musica de plancha" mean?"`) you'll get something like this (GenAI is creative, so you might not get the same answer all the time):
 
 ```text
-En Costa Rica, "música de plancha" se refiere a un tipo de música popular, generalmente música bailable y alegre, pero considerada de baja calidad o "cursi". No es un género musical específico, sino más bien una categoría despectiva para música que se considera comercial, repetitiva y sin mucha profundidad artística.
+En Costa Rica, "música de plancha" se refiere a un tipo de música popular, generalmente 
+música bailable y alegre, pero considerada de baja calidad o "cursi". No es un género 
+musical específico, sino más bien una categoría despectiva para música que se considera 
+comercial, repetitiva y sin mucha profundidad artística.
 
 Aquí hay algunos puntos clave sobre la "música de plancha" en Costa Rica:
 
-Origen del término: Se dice que el término proviene de la época en que se escuchaba este tipo de música en las "planchas" (terrazas o balcones) de las casas, especialmente en fiestas populares.
-Características: Suele ser música romántica, cumbia, salsa, o incluso reggaetón, pero con letras simples y melodías pegadizas diseñadas para bailar.
+Origen del término: Se dice que el término proviene de la época en que se escuchaba
+este tipo de música en las "planchas" (terrazas o balcones) de las casas, especialmente 
+en fiestas populares.
+
+Características: Suele ser música romántica, cumbia, salsa, o incluso reggaetón,
+pero con letras simples y melodías pegadizas diseñadas para bailar.
 ...
 ```
 
 A translation and summary (using Gemma 3) of that answer looks like this:
 
 ```text
-In Costa Rica, "música de plancha" is a dismissive term for popular, danceable music that is considered low-quality and lacking artistic merit. The term originated from music played on balconies during parties. It typically includes genres like cumbia, salsa, and reggaeton with simple lyrics and catchy beats. While widely heard in bars and events, it carries a negative connotation and can be considered offensive.
+In Costa Rica, "música de plancha" is a dismissive term for popular, danceable 
+music that is considered low-quality and lacking artistic merit. The term originated 
+from music played on balconies during parties.
+
+It typically includes genres like cumbia, salsa, and reggaeton with simple lyrics 
+and catchy beats.
+
+While widely heard in bars and events, it carries a negative connotation and can 
+be considered offensive.
 ```
 
 None of the statements in that summary reflect what it means in the cultural context (leaving aside the subjective value of the music's quality or lack thereof). The project here includes a list of slang terms and their respective explanations. Some of them have been augmented, some of them show different variations, but the goal is to provide more nuance to the LLM.
@@ -122,7 +137,7 @@ python -m mlx_lm.lora \
 
 Results:
 
-- 20251004[A]: `Test loss 2.272, Test ppl 9.695.` (initial baseline)
+- 20251004[A]: `Test loss 2.272, Test ppl 9.695.` (first dataset with 250 entries)
 - 20251004[B]: `Test loss 2.204, Test ppl 9.061.` (with more data entries)
 - 20251004[C]: `Test loss 1.161, Test ppl 3.193.` (with updated training prompt format)
 

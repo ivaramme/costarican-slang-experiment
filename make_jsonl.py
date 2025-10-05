@@ -6,7 +6,7 @@ Defaults:
   input:  data/source_augmented.txt
   output: data/source_augmented.jsonl
 
-Output schema matches train.py: {"instruction": str, "output": str}
+Output schema matches: {"messages": [...]} as documented in README.md.
 """
 from __future__ import annotations
 

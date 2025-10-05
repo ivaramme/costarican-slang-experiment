@@ -5,7 +5,8 @@ Split a JSONL file into train/valid/test with deterministic shuffling.
 Defaults:
   input: data/source_augmented.jsonl
   outputs: data/train.jsonl, data/valid.jsonl, data/test.jsonl
-Also writes data/eval.jsonl mirroring 'valid' by default to match train.py.
+Also writes data/eval.jsonl mirroring 'valid' by default to match the 
+commands described in README.md.
 """
 from __future__ import annotations
 
