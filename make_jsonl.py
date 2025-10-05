@@ -11,10 +11,14 @@ Output schema matches train.py: {"instruction": str, "output": str}
 from __future__ import annotations
 
 import argparse
+import json
 import sys
 from pathlib import Path
 
-TEMPLATE = """{{ "messages": [ {{"role": "system", "content": "Eres un experto en la cultura de Costa Rica y puedes explicar el significado de un costarriqueñismo que el usuario ingrese."}}, {{"role": "user", "content": "{instruction}"}}, {{"role": "assistant", "content": "El significado de este costarriqueñismo es: {output}"}}] }}"""
+SYSTEM_PROMPT = (
+    "Eres un experto en la cultura de Costa Rica y puedes explicar el significado de un "
+    "costarriqueñismo que el usuario ingrese."
+)
 
 def normalize_explanation(text: str) -> str:
     """Ensure the explanation ends with proper punctuation."""
@@ -37,8 +41,19 @@ def convert_line(line: str) -> str | None:
     if not definition or not explanation:
         return None
 
-    template = TEMPLATE.format(instruction=definition, output=normalize_explanation(explanation))
-    return template
+    normalized_explanation = normalize_explanation(explanation)
+
+    record = {
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": definition},
+            {
+                "role": "assistant",
+                "content": f"El significado de este costarriqueñismo es: {normalized_explanation}",
+            },
+        ]
+    }
+    return json.dumps(record, ensure_ascii=False)
 
 
 def run(input_path: Path, output_path: Path) -> int:
