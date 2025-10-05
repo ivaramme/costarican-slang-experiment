@@ -58,14 +58,20 @@ def convert_line(line: str) -> str | None:
 
 def run(input_path: Path, output_path: Path) -> int:
     """Process the input file and write to output file."""
-    count_in, count_out = 0, 0
+    count_in, count_out, count_skipped = 0, 0, 0
     with input_path.open("r", encoding="utf-8") as fin, output_path.open("w", encoding="utf-8") as fout:
         for raw in fin:
             count_in += 1
-            instruction = convert_line(raw) or ""
-            fout.write(instruction + "\n")
-            count_out += 1
-    print(f"Processed {count_in} lines, wrote {count_out} JSONL records to {output_path}")
+            instruction = convert_line(raw)
+            if instruction:
+                fout.write(instruction + "\n")
+                count_out += 1
+            else:
+                count_skipped += 1
+    print(
+        f"Processed {count_in} lines, wrote {count_out} JSONL records to {output_path}. "
+        f"Skipped {count_skipped} malformed line(s)."
+    )
     return 0
 
 
